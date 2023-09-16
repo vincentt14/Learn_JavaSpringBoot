@@ -1,0 +1,3 @@
+GET http://localhost:8080/baba
+###
+GET http://localhost:8080/dailyWorkout
